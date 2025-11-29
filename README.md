@@ -3,7 +3,7 @@
 Secure File Sharing App is a comprehensive solution for secure file exchange, developed using the MERN (MongoDB, Express.js, React, Node.js) stack. This application enables users to share files with end-users with a high level of privacy and security. Featuring end-to-end encryption, password protection, input sanitization, brute force attack protection, protection against NoSQL injections, XSS attacks, and many other security measures, it stands as a modern web application designed to meet the highest standards of data protection.
 
 # Application interface
-(https://github.com/SHR3YGO3L/file-share/blob/main/assets/Screenshot%202025-11-29%20223854.png)
+![screencapture-localhost-5173-2024-02-09-09_13_53](https://github.com/SHR3YGO3L/file-share/blob/main/assets/Screenshot%202025-11-29%20223854.png)
 ![screencapture-localhost-5173-2024-02-09-09_13_53](https://github.com/SHR3YGO3L/file-share/blob/main/assets/Screenshot%202025-11-29%20123422.png)
 
 ![screencapture-localhost-5173-app-2024-02-09-09_14_12](https://github.com/SHR3YGO3L/file-share/blob/main/assets/Screenshot%202025-11-29%20123434.png)
